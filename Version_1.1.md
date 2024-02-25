@@ -11,6 +11,6 @@ El laboratorio era demasiado grande y el tiempo apremiaba, ya que si las autorid
 
 Con manos temblorosas, administraron la cura, y ante sus ojos asombrados, vieron cómo las **formas monstruosas** se desvanecían lentamente, revelando las caras sonrientes y los cuerpos humanos que habían perdido. 
 
-Después de ese día, ninguno volvió a usar siquiera un **sombrero** y mantuvieron en secreto lo que ocurrió; cuando se reunían entre amigos, recordaban con risa todo lo que ocurrió en ese loco día, mientras la esposa del científico, quien había arriesgado su vida, estaba mucho más alegre al no convivir jamas con ese sujeto de nuevo.
+Después de ese día, ninguno volvió a usar siquiera un **sombrero** y mantuvieron en secreto lo que ocurrió; cuando se reunían entre amigos, recordaban con risa todo lo que ocurrió en ese loco día, mientras la esposa del científico, quien había arriesgado su vida, estaba mucho más alegre al no convivir <del>jamas</del> con ese sujeto de nuevo.
 
 ### FIN
