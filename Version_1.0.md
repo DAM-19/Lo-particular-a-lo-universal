@@ -10,7 +10,9 @@ Cuando fueron de una manera más agresiva a donde estaba el hombre él los invit
 Lastimosamente cuando los hombres despertaron estaban en una sala **totalmente inmovilizados** por una máquina que los tenía de pie, y tampoco les permitía hablar solo _escuchar y ver_; en ese momento el hombre les explicó que les iba a usar para **experimentos de radioactividad** y que lo de los sombreros era solo un viejo experimento radioactivo que estaba usando para **destruir ciertos materiales** de manera muy disimulada y gracias a ello habían caído fácilmente en su trampa.
 
 En ese momento los hombres intentaron moverse, sin embargo, no podían hacer mucho, pero estaban bastante enfados con lo que había sucedido, mientras tanto en ese momento el hombre ya tenía todos los equipos listos para convertir a esos hombres en monstruos leales y bastante fuertes.
+
 ![MONSTERS](https://www.shutterstock.com/image-illustration/scary-little-mud-monsters-sewers-260nw-2198139471.jpg)
+
  Por lo que tan solo en un minuto ya se habían transformado y el científico loco compróbo que los monstruos eran leales y no podían pensar por sí mismos solo **recibir órdenes**.
 ---
  [AUTODESTRUCCION](Version_1.1.md)
